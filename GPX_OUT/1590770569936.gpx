@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="35.08381899" lon="111.03395914">
+        <time>2020-05-29T16:09:14.299000Z</time>
+      </trkpt>
+      <trkpt lat="35.08379364" lon="111.03385155">
+        <time>2020-05-29T16:09:18.320000Z</time>
+      </trkpt>
+      <trkpt lat="35.08379364" lon="111.03385155">
+        <time>2020-05-29T16:09:21.302000Z</time>
+      </trkpt>
+      <trkpt lat="35.08379364" lon="111.03385155">
+        <time>2020-05-29T16:09:32Z</time>
+      </trkpt>
+      <trkpt lat="35.08346186" lon="111.03386934">
+        <time>2020-05-29T16:09:43.328000Z</time>
+      </trkpt>
+      <trkpt lat="35.08346186" lon="111.03386934">
+        <time>2020-05-29T16:09:47.996000Z</time>
+      </trkpt>
+      <trkpt lat="35.08336452" lon="111.03393718">
+        <time>2020-05-29T16:09:48.317000Z</time>
+      </trkpt>
+      <trkpt lat="35.08325923" lon="111.03398433">
+        <time>2020-05-29T16:09:52.291000Z</time>
+      </trkpt>
+      <trkpt lat="35.08317169" lon="111.03395749">
+        <time>2020-05-29T16:09:55.316000Z</time>
+      </trkpt>
+      <trkpt lat="35.08308718" lon="111.03386359">
+        <time>2020-05-29T16:09:59.300000Z</time>
+      </trkpt>
+      <trkpt lat="35.08304549" lon="111.03376403">
+        <time>2020-05-29T16:10:06.340000Z</time>
+      </trkpt>
+      <trkpt lat="35.08304549" lon="111.03376403">
+        <time>2020-05-29T16:10:06.736000Z</time>
+      </trkpt>
+      <trkpt lat="35.08304549" lon="111.03376403">
+        <time>2020-05-29T16:10:24.017000Z</time>
+      </trkpt>
+      <trkpt lat="35.07803832" lon="111.03067434">
+        <time>2020-05-29T16:29:30.341000Z</time>
+      </trkpt>
+      <trkpt lat="35.07803832" lon="111.03067434">
+        <time>2020-05-29T16:29:46.640000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

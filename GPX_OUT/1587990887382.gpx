@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="35.14241405" lon="111.21044738">
+        <time>2020-04-27T10:52:19.319000Z</time>
+      </trkpt>
+      <trkpt lat="35.14242269" lon="111.210447">
+        <time>2020-04-27T10:52:20.032000Z</time>
+      </trkpt>
+      <trkpt lat="35.14242269" lon="111.210447">
+        <time>2020-04-27T10:52:30.643000Z</time>
+      </trkpt>
+      <trkpt lat="35.13248219" lon="111.23142885">
+        <time>2020-04-27T11:28:11.018000Z</time>
+      </trkpt>
+      <trkpt lat="35.13240996" lon="111.23134128">
+        <time>2020-04-27T11:28:19.043000Z</time>
+      </trkpt>
+      <trkpt lat="35.13232282" lon="111.23127928">
+        <time>2020-04-27T11:28:27.049000Z</time>
+      </trkpt>
+      <trkpt lat="35.1322354" lon="111.23122931">
+        <time>2020-04-27T11:28:34.023000Z</time>
+      </trkpt>
+      <trkpt lat="35.1321406" lon="111.23115319">
+        <time>2020-04-27T11:28:41.013000Z</time>
+      </trkpt>
+      <trkpt lat="35.1321406" lon="111.23115319">
+        <time>2020-04-27T11:28:52.763000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

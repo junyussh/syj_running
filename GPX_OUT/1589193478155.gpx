@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="35.13593794" lon="111.23435855">
+        <time>2020-05-11T10:35:08.302000Z</time>
+      </trkpt>
+      <trkpt lat="35.13593794" lon="111.23435855">
+        <time>2020-05-11T10:35:11.288000Z</time>
+      </trkpt>
+      <trkpt lat="35.13593794" lon="111.23435855">
+        <time>2020-05-11T10:35:18.326000Z</time>
+      </trkpt>
+      <trkpt lat="35.13593794" lon="111.23435855">
+        <time>2020-05-11T10:35:18.334000Z</time>
+      </trkpt>
+      <trkpt lat="35.1358324" lon="111.23426488">
+        <time>2020-05-11T10:35:21.305000Z</time>
+      </trkpt>
+      <trkpt lat="35.13574358" lon="111.23421836">
+        <time>2020-05-11T10:35:24.299000Z</time>
+      </trkpt>
+      <trkpt lat="35.13574358" lon="111.23421836">
+        <time>2020-05-11T10:35:27.251000Z</time>
+      </trkpt>
+      <trkpt lat="35.13565881" lon="111.23416037">
+        <time>2020-05-11T10:35:27.282000Z</time>
+      </trkpt>
+      <trkpt lat="35.1355855" lon="111.23408722">
+        <time>2020-05-11T10:35:30.309000Z</time>
+      </trkpt>
+      <trkpt lat="35.13549591" lon="111.23399006">
+        <time>2020-05-11T10:35:34.278000Z</time>
+      </trkpt>
+      <trkpt lat="35.13541065" lon="111.2338951">
+        <time>2020-05-11T10:35:38.298000Z</time>
+      </trkpt>
+      <trkpt lat="35.13531238" lon="111.23382469">
+        <time>2020-05-11T10:35:42.277000Z</time>
+      </trkpt>
+      <trkpt lat="35.13522254" lon="111.233741">
+        <time>2020-05-11T10:35:46.300000Z</time>
+      </trkpt>
+      <trkpt lat="35.13513258" lon="111.23365334">
+        <time>2020-05-11T10:35:50.300000Z</time>
+      </trkpt>
+      <trkpt lat="35.13504144" lon="111.23358042">
+        <time>2020-05-11T10:35:54.339000Z</time>
+      </trkpt>
+      <trkpt lat="35.1349378" lon="111.23350678">
+        <time>2020-05-11T10:35:58.300000Z</time>
+      </trkpt>
+      <trkpt lat="35.13484893" lon="111.23345066">
+        <time>2020-05-11T10:36:02.272000Z</time>
+      </trkpt>
+      <trkpt lat="35.13477262" lon="111.23337083">
+        <time>2020-05-11T10:36:06.300000Z</time>
+      </trkpt>
+      <trkpt lat="35.13468288" lon="111.23331545">
+        <time>2020-05-11T10:36:10.278000Z</time>
+      </trkpt>
+      <trkpt lat="35.134602" lon="111.23323773">
+        <time>2020-05-11T10:36:15.302000Z</time>
+      </trkpt>
+      <trkpt lat="35.1345103" lon="111.23316178">
+        <time>2020-05-11T10:36:20.300000Z</time>
+      </trkpt>
+      <trkpt lat="35.13443893" lon="111.23309311">
+        <time>2020-05-11T10:36:24.301000Z</time>
+      </trkpt>
+      <trkpt lat="35.13437536" lon="111.23300891">
+        <time>2020-05-11T10:36:28.309000Z</time>
+      </trkpt>
+      <trkpt lat="35.13428488" lon="111.2329421">
+        <time>2020-05-11T10:36:33.294000Z</time>
+      </trkpt>
+      <trkpt lat="35.13418986" lon="111.23287524">
+        <time>2020-05-11T10:36:38.276000Z</time>
+      </trkpt>
+      <trkpt lat="35.13409417" lon="111.23280954">
+        <time>2020-05-11T10:36:43.296000Z</time>
+      </trkpt>
+      <trkpt lat="35.13401361" lon="111.23273482">
+        <time>2020-05-11T10:36:47.304000Z</time>
+      </trkpt>
+      <trkpt lat="35.13393272" lon="111.23266976">
+        <time>2020-05-11T10:36:51.275000Z</time>
+      </trkpt>
+      <trkpt lat="35.13385902" lon="111.23258155">
+        <time>2020-05-11T10:36:55.295000Z</time>
+      </trkpt>
+      <trkpt lat="35.13385902" lon="111.23258155">
+        <time>2020-05-11T10:36:59.294000Z</time>
+      </trkpt>
+      <trkpt lat="35.13385902" lon="111.23258155">
+        <time>2020-05-11T10:37:09.303000Z</time>
+      </trkpt>
+      <trkpt lat="35.13385902" lon="111.23258155">
+        <time>2020-05-11T10:37:15.327000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
